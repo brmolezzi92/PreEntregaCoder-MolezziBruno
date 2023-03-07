@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    background-color: rgba(138, 237, 237, 0.562);
+}
+nav>span{
+    font-weight: 700;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    margin: 1rem;
+}

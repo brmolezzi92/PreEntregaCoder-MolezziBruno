@@ -1,0 +1,16 @@
+.cartContainer{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background-color: rgba(85, 120, 234, 0.603);
+    padding: 1rem;
+    border-radius: .4rem;
+}
+
+.cartContainer>span{
+    background-color: white;
+    padding: .4rem;
+    border-radius: .2rem;
+    font-weight: 700;
+}
+
